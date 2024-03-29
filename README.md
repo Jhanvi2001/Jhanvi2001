@@ -1,10 +1,10 @@
-### <div align="center">I'm Kairav, a Senior Backend and DevOps Engineer👨‍💻</div>  
+### <div align="center">I'm Jhanvi, an aspiring Data Scientist and Machine Learning Engineer👨‍💻</div>  
   
 
 - 🌱 I’m currently learning ReactJS/NextJS Development and Deployment.  
 - ❓ Ask me about anything related to Backend and DevOps Technologies.
 - 🔭  Certified Google Tensorflow Developer. Find my credentials [here](https://www.credential.net/b2e41be9-a53f-4f57-a541-fc7a3da0c85b#gs.ty4mic).
-- :mag: Find me : [kairavkkp.github.io](https://kairavkkp.github.io) [Little bit outdated, will update soon.]
+<!--- :mag: Find me : [kairavkkp.github.io](https://kairavkkp.github.io) [Little bit outdated, will update soon.]-->
   
 <br/>  
 
