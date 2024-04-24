@@ -5,7 +5,7 @@
 - ❓ Ask me about anything related to Analytics and Machine learning tools.
 - 📚 Publication: Exploring Geospatial Patterns in Customer Reviews: A Study of the Expectancy-Disconfirmation Theory in Diverse Locations
 - 🗓️ Conference: AMCIS (ASSOCIATION FOR INFORMATION SYSTEMS) 2024 
-  🗓️ Conference: TREO Talks of the 2023 International Conference on Information Systems
+- 🗓️ Conference: TREO Talks of the 2023 International Conference on Information Systems
   📅 Date: Dec 10, 2023
 - 👩‍💼 Volunteer: Business Analyst
   🏢 Organization: Business Technology Analytics Association
