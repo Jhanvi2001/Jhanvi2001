@@ -9,7 +9,7 @@
   📅 Date: Dec 10, 2023
 - 👩‍💼 Volunteer: Business Analyst
   🏢 Organization: Business Technology Analytics Association
-<!--- :mag: Find me : [kairavkkp.github.io](https://kairavkkp.github.io) [Little bit outdated, will update soon.]-->
+<!--- :mag: Find me : [https://scholar.google.com/citations?user=nyUW0EMAAAAJ&hl=en&oi=ao]-->
   
 <br/>  
 
