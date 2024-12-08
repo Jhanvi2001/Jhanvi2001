@@ -10,7 +10,7 @@
 - 👩‍💼 Volunteer: Business Analyst
   🏢 Organization: Business Technology Analytics Association
 
-Find me : [https://scholar.google.com/citations?user=nyUW0EMAAAAJ&hl=en&oi=ao]
+Google Scholar : https://scholar.google.com/citations?user=nyUW0EMAAAAJ&hl=en&oi=ao
   
 <br/>  
 
