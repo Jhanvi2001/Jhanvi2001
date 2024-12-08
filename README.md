@@ -9,7 +9,7 @@
   📅 Date: Dec 10, 2023
 - 👩‍💼 Volunteer: Business Analyst
   🏢 Organization: Business Technology Analytics Association
-<!--- :mag: Find me : [https://scholar.google.com/citations?user=nyUW0EMAAAAJ&hl=en&oi=ao]-->
+  :mag: Find me : [https://scholar.google.com/citations?user=nyUW0EMAAAAJ&hl=en&oi=ao]
   
 <br/>  
 
